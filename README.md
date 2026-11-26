@@ -16,7 +16,7 @@ Tracks **60 Matches**, **8 Franchises**, **20,944 Total Runs**, and **799 Total 
 - Win Type Distribution (Win by Run vs. Win by Wickets)
 - Team vs. Total Wins
 
-[team_dashboard.png]
+[Team%20Performance%20Dashboard.png]
 
 ### 2. Player Performance Dashboard
 Tracks batting and bowling efficiency across **33 Players**, covering Total Runs, Total Wickets, Average Strike Rate, and Average Bowling Economy:
@@ -24,7 +24,7 @@ Tracks batting and bowling efficiency across **33 Players**, covering Total Runs
 - Player vs. Total Wickets
 - Strike Rate & Economy Comparisons
 
-[player_dashboard.png]
+[Player%20Performance%20Dashboard.png]
 
 ## Tools & Skills Used
 - **Microsoft Excel** (PivotTables, PivotCharts, Slicers, `GETPIVOTDATA`)
